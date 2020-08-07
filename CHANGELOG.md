@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-kms/#history
 
+### [2.0.1](https://www.github.com/googleapis/python-kms/compare/v2.0.0...v2.0.1) (2020-08-07)
+
+
+### Documentation
+
+* Generate using new common.py_samples() synthtool functionality ([#35](https://www.github.com/googleapis/python-kms/issues/35)) ([90097bc](https://www.github.com/googleapis/python-kms/commit/90097bca7660f148f36e009f70d108404efa5308))
+
 ## [2.0.0](https://www.github.com/googleapis/python-kms/compare/v1.4.0...v2.0.0) (2020-07-30)
 
 
